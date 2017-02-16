@@ -1,0 +1,73 @@
+#EXTM3U 
+#EXTINF:-1, ---EliteModz IPTV---
+http://whatever.ts
+#EXTINF:-1,A&E 
+http://5.226.137.176:9090/load/free123/2.mpegts 
+#EXTINF:-1,ABC 
+http://5.226.137.176:9090/load/free123/3.mpegts 
+#EXTINF:-1,AMC 
+http://5.226.137.176:9090/load/free123/4.mpegts 
+#EXTINF:-1,Animal Planet US 
+http://5.226.137.176:9090/load/free123/27.mpegts 
+#EXTINF:-1,Cinemas EAST 
+http://5.226.137.176:9090/load/free123/18.mpegts 
+#EXTINF:-1,Cinemax 5Stars 
+http://5.226.137.176:9090/load/free123/21.mpegts 
+#EXTINF:-1,Cinemax ActionMax 
+http://5.226.137.176:9090/load/free123/20.mpegts 
+#EXTINF:-1,CNN US 
+http://5.226.137.176:9090/load/free123/16.mpegts 
+#EXTINF:-1,Comedy Central US 
+http://5.226.137.176:9090/load/free123/14.mpegts 
+#EXTINF:-1,Discovery Channel US 
+http://5.226.137.176:9090/load/free123/49.mpegts 
+#EXTINF:-1,E! 
+http://5.226.137.176:9090/load/free123/5.mpegts 
+#EXTINF:-1,ESPN 
+http://5.226.137.176:9090/load/free123/30.mpegts 
+#EXTINF:-1,ESPN2 
+http://5.226.137.176:9090/load/free123/31.mpegts 
+#EXTINF:-1,FOX 
+http://5.226.137.176:9090/load/free123/6.mpegts 
+#EXTINF:-1,Fox Sports1 
+http://5.226.137.176:9090/load/free123/32.mpegts 
+#EXTINF:-1,Fox Sports2 
+http://5.226.137.176:9090/load/free123/33.mpegts 
+#EXTINF:-1,FX 
+http://5.226.137.176:9090/load/free123/7.mpegts 
+#EXTINF:0,US: FX HD
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/1149.ts
+#EXTINF:-1,H2 US 
+http://5.226.137.176:9090/load/free123/25.mpegts 
+#EXTINF:0,US: TNT
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/1156.ts
+#EXTINF:-1,FreeForm
+http://system.fpiptv.com:8080/live/general/general/1169.ts
+#EXTINF:0,US: NBA TV
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/1174.ts
+#EXTINF:-1,HallMark 
+http://5.226.137.176:9090/load/free123/9.mpegts 
+#EXTINF:0,US: Starz Edge
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/1451.ts
+#EXTINF:-1,HBO Comedy 
+http://5.226.137.176:9090/load/free123/53.mpegts 
+#EXTINF:-1,HBO 2
+http://system.fpiptv.com:8080/live/general/general/12.ts
+#EXTINF:0,UK: Sky Boomerang
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/444.ts
+#EXTINF:0,UK: Sky Nickelodeon
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/503.ts
+#EXTINF:0,UK: Sky Cartoon Network
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/522.ts
+#EXTINF:0,UK: Sky NickToons
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/446.ts
+#EXTINF:0,UK: Sky Disney XD HD
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/493.ts
+#EXTINF:0,UK: Sky Disney Junior HD
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/494.ts
+#EXTINF:0,UK: Sky Disney Chaneel HD
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/492.ts
+#EXTINF:0,#EXTINF:-1, ABC - WFTV Channel 9
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8?X-Anvato-Adst-Auth=KfkOPy1Ew3GWiQB367aCTF7zNU+PDSTj9Gp/F+8gid+Lfgflkt25rtDgDmnYPjoZ
+#EXTINF:0,#EXTINF:-1, WFox
+http://cmghlslive-i.akamaihd.net/hls/live/224710/WFOX/904k/prog.m3u8
